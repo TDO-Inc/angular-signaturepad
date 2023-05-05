@@ -1,0 +1,26 @@
+{
+  "name": "@tdox-inc/angular-signaturepad",
+  "version": "1.0.0",
+  "description": "Angular2 Component wrapper for signature_pad",
+  "repository": "git@github.com:TDO-Inc/angular-signaturepad",
+  "keywords": [
+    "signature",
+    "sign",
+    "finger",
+    "canvas"
+  ],
+  "author": "Wulf Solter <wulf@wulf.co.nz> (http://wulf.co.nz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TDO-Inc/angular-signaturepad/issues"
+  },
+  "homepage": "https://github.com/TDO-Inc/angular-signaturepad#readme",
+  "peerDependencies": {
+    "@angular/common": "^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0",
+    "@angular/core": "^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0 || ^15.0.0",
+    "signature_pad": "1.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
